@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BBDD>
+	<Url>jdbc:mysql://localhost:3306/books</Url>
+	<Usuario>root</Usuario>
+	<Pass></Pass>
+
+</BBDD>
